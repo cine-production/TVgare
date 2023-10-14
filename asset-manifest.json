@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TVgare/static/css/main.073c9b0a.css",
-    "main.js": "/TVgare/static/js/main.2468ba4a.js",
+    "main.js": "/TVgare/static/js/main.6fa6c4ff.js",
     "static/js/787.c56ae65b.chunk.js": "/TVgare/static/js/787.c56ae65b.chunk.js",
     "static/media/my1fursonas.png": "/TVgare/static/media/my1fursonas.67804800674fab9a4a3c.png",
     "index.html": "/TVgare/index.html",
     "main.073c9b0a.css.map": "/TVgare/static/css/main.073c9b0a.css.map",
-    "main.2468ba4a.js.map": "/TVgare/static/js/main.2468ba4a.js.map",
+    "main.6fa6c4ff.js.map": "/TVgare/static/js/main.6fa6c4ff.js.map",
     "787.c56ae65b.chunk.js.map": "/TVgare/static/js/787.c56ae65b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2468ba4a.js"
+    "static/js/main.6fa6c4ff.js"
   ]
 }
