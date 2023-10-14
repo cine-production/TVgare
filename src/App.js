@@ -1,20 +1,12 @@
-import { Routes, Route } from 'react-router-dom'
-import React from 'react'
-import Home from './page/Home'
-import City from './page/City'
-import TrainStation from './components/TrainStation'
+import logo from './my1fursona.png';
+import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path=":city" element={<City />}>
-          <Route path=":codeStation" element={<TrainStation />} />
-        </Route>
-      </Routes>
+      <img src={logo} />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
