@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from 'react'
 import Departures from './Departures'
 import Arrivals from './Arrivals'
 
