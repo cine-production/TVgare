@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TVgare/static/css/main.5a094ef0.css",
+    "main.js": "/TVgare/static/js/main.3e335aab.js",
+    "index.html": "/TVgare/index.html",
+    "main.5a094ef0.css.map": "/TVgare/static/css/main.5a094ef0.css.map",
+    "main.3e335aab.js.map": "/TVgare/static/js/main.3e335aab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a094ef0.css",
+    "static/js/main.3e335aab.js"
+  ]
+}
