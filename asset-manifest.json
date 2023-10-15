@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TVgare/static/css/main.5a094ef0.css",
-    "main.js": "/TVgare/static/js/main.8bd27c79.js",
+    "main.js": "/TVgare/static/js/main.e5739ccb.js",
     "index.html": "/TVgare/index.html",
     "main.5a094ef0.css.map": "/TVgare/static/css/main.5a094ef0.css.map",
-    "main.8bd27c79.js.map": "/TVgare/static/js/main.8bd27c79.js.map"
+    "main.e5739ccb.js.map": "/TVgare/static/js/main.e5739ccb.js.map"
   },
   "entrypoints": [
     "static/css/main.5a094ef0.css",
-    "static/js/main.8bd27c79.js"
+    "static/js/main.e5739ccb.js"
   ]
 }
