@@ -31,7 +31,7 @@ function Origin({ idArrival }) {
             <li className="stops__station" key={stop}>
               {stop}
               <img
-                src="yellow.jpg"
+                src="/yellow.jpg"
                 alt="Yellow point"
                 style={{
                   display: `${index === stops.length - 1 ? 'none' : 'inline'}`,
