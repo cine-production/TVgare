@@ -31,7 +31,7 @@ function Origin({ idArrival }) {
             <li className="stops__station" key={stop}>
               {stop}
               <img
-                src="/images/yellow.jpg"
+                src="https://www.tooadhesifs.com/5425-large_default/a0003-ps-film-jaune-citron-en-050m.jpg"
                 alt="Yellow point"
                 style={{
                   display: `${index === stops.length - 1 ? 'none' : 'inline'}`,
