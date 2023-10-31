@@ -31,7 +31,7 @@ function Origin({ idArrival }) {
             <li className="stops__station" key={stop}>
               {stop}
               <img
-                src="https://www.formica.com/fr-fr/-/media/project/formica/emea/products/swatch-images/f1485/f1485-swatch.jpg?rev=8b9f35974d3c422698d2b6d9c153bb10“
+                src="/images/yellow.jpg"
                 alt="Yellow point"
                 style={{
                   display: `${index === stops.length - 1 ? 'none' : 'inline'}`,
