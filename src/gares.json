@@ -1,4 +1,8 @@
 {
+  
+
+
+  
   "Cerbère": {
     "Gare de Cerbère": "stop_area:SNCF:87785006"
   },
@@ -48,6 +52,10 @@
   "Port-la-Nouvelle": {
     "Gare de Port-la-Nouvelle": "stop_area:SNCF:87781062"
   },
+
+
+
+
   "Grau-du-Roi": {
     "Gare Le Grau-du-Roi": "stop_area:SNCF:87775866"
   },
@@ -72,6 +80,11 @@
   "Sète": {
     "Gare de Sète": "stop_area:SNCF:87773200"
   },
+
+
+
+
+
   "Entraigues-sur-la-Sorgue": {
     "Gare de Entraigues-sur-la-Sorgue": "stop_area:SNCF:87765826"
   },
@@ -99,6 +112,11 @@
   "Saint-Rambert-d'Albon": {
     "Gare de Saint-Rambert-d'Albon": "stop_area:SNCF:87761106"
   },
+
+
+
+
+
   "Marseille": {
     "Picon Busserine": "stop_area:SNCF:87759290",
     "Niolon": "stop_area:SNCF:87753582",
@@ -165,6 +183,11 @@
   "Manosque": {
     "Manosque - Gréoux-les-Bains": "stop_area:SNCF:87751321"
   },
+
+
+
+
+
   "Jarrie": {
     "Jarrie - Vizille": "stop_area:SNCF:87747535"
   },
@@ -240,5 +263,133 @@
   },
   "Lépin-le-Lac": {
     "Lépin-le-Lac - La Bauche": "stop_area:SNCF:87741439"
+  },
+
+
+
+
+
+  "Peschadoires": {
+    "Pont de Dore": "stop_area:SNCF:87734459"
+  },
+  "Monistrol-d'Allier": {
+    "Gare de Monistrol-d'Allier": "stop_area:SNCF:87734335"
+  },
+  "Langeac": {
+    "Gare de Langeac": "stop_area:SNCF:87734319"
+  },
+  "Paulhaguet": {
+    "Saint-Georges-d'Aurac": "stop_area:SNCF:87734301"
+  },
+  "Bournoncle-Saint-Pierre": {
+    "Arvant": "stop_area:SNCF:87734251"
+  },
+  "Cendre": {
+    "Le Cendre - Orcet": "stop_area:SNCF:87734160"
+  },
+  "Riom": {
+    "Riom - Châtel-Guyon": "stop_area:SNCF:87734053"
+  },
+  "Saint-Germain-des-Fossés": {
+    "Gare de Saint-Germain-des-Fossés": "stop_area:SNCF:87732206"
+  },
+  "Alleyras": {
+    "Gare de Alleyras": "stop_area:SNCF:87731885"
+  },
+
+
+
+
+  
+  "Aurec-sur-Loire": {
+    "Gare de Aurec-sur-Loire": "stop_area:SNCF:87726760"
+  },
+  "Saint-Romain-le-Puy": {
+    "Gare de Saint-Romain-le-Puy": "stop_area:SNCF:87726430"
+  },
+  "Sury-le-Comtal": {
+    "Gare de Sury-le-Comtal": "stop_area:SNCF:87726422"
+  },
+  "Saint-Étienne": {
+    "Saint-Étienne La Terrasse": "stop_area:SNCF:87726158"
+  },
+  "Échirolles": {
+    "Gare de Échirolles": "stop_area:SNCF:87725895"
+  },
+  "Senozan": {
+    "Gare de Senozan": "stop_area:SNCF:87725671"
+  },
+  "Sennecey-le-Grand": {
+    "Gare de Sennecey-le-Grand": "stop_area:SNCF:87725614"
+  },
+  "Saint-Paul-de-Varax": {
+    "Gare de Saint-Paul-de-Varax": "stop_area:SNCF:87723783"
+  },
+  "Marlieux": {
+    "Marlieux - Châtillon": "stop_area:SNCF:87723767"
+  },
+  "Saint-Marcel": {
+    "Saint-Marcel en Dombes": "stop_area:SNCF:87723742"
+  },
+  "Saint-André-de-Corcy": {
+    "Gare de Saint-André-de-Corcy": "stop_area:SNCF:87723734"
+  },
+  "Mionnay": {
+    "Gare de Mionnay": "stop_area:SNCF:87723726"
+  },
+  "Miribel": {
+    "Les Échets": "stop_area:SNCF:87723718"
+  },
+  "Meximieux": {
+    "Meximieux - Pérouges": "stop_area:SNCF:87723585"
+  },
+  "Balan": {
+    "La Valbonne": "stop_area:SNCF:87723577"
+  },
+  "Montluel": {
+    "Gare de Montluel": "stop_area:SNCF:87723569"
+  },
+  "Verpillière": {
+    "La Verpillière": "stop_area:SNCF:87723395"
+  },
+  "Vénissieux": {
+    "Gare de Vénissieux": "stop_area:SNCF:87723320"
+  },
+  "Tassin-la-Demi-Lune": {
+    "Alaï": "stop_area:SNCF:87722744"
+  },
+  "Brignais": {
+    "Gare de Brignais": "stop_area:SNCF:87722728"
+  },
+  "Chasse-sur-Rhône": {
+    "Gare de Chasse-sur-Rhône": "stop_area:SNCF:87722561"
+  },
+  "Sérézin-du-Rhône": {
+    "Gare de Sérézin-du-Rhône": "stop_area:SNCF:87722546"
+  },
+  "Grigny": {
+    "Grigny le Sablon": "stop_area:SNCF:87722298"
+  },
+  "CP : 69870": {
+    "Poule": "stop_area:SNCF:87721894"
+  },
+  "Châtillon": {
+    "Châtillon d'Azergues": "stop_area:SNCF:87721753"
+  },
+  "Civrieux-d'Azergues": {
+    "Gare de Civrieux-d'Azergues": "stop_area:SNCF:87721746"
+  },
+  "Charbonnières-les-Bains": {
+    "Gare de Charbonnières-les-Bains": "stop_area:SNCF:87721530"
+  },
+  "Vindry-sur-Turdine": {
+    "Pontcharra - Saint-Forgeux": "stop_area:SNCF:87721464"
+  },
+  "Lozanne": {
+    "Gare de Lozanne": "stop_area:SNCF:87721423"
+  },
+  "Saint-Germain-au-Mont-d'Or": {
+    "Gare de Saint-Germain-au-Mont-d'Or": "stop_area:SNCF:87721282"
   }
 }
+  
