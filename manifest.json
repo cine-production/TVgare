@@ -1,6 +1,6 @@
 {
-  "short_name": "TV gare",
-  "name": "Infos",
+  "short_name": "TV Gare",
+  "name": "Ecrans Gare SNCF temps réels",
   "icons": [
     {
       "src": "favicon.ico",
